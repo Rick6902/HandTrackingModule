@@ -1,0 +1,9 @@
+Install Necessary packages.
+cv2
+mediapipe 
+from mediapipe.python.solutions.drawing_utils import draw_landmarks
+math
+ctypes 
+CLSCTX_ALL
+from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
+numpy
